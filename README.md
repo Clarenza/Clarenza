@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer)](https://git.io/typing-svg)
-</p>  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+  
 <!--
 **Clarenza/Clarenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
