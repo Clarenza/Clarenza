@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 allign="center">Hi! I am Clarenza Victoria</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
@@ -8,20 +8,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
-  <p>
-    <a href="https://img.shields.io/badge/github-repo-blue?logo=github">
-  </p>
-<!--
-**Clarenza/Clarenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats-pzclfnyef-clarenzas-projects.vercel.app/api?username=Clarenza&show_icons=true&theme=dark&cache_seconds=86401)
+![Top Languages](https://github-readme-stats-pzclfnyef-clarenzas-projects.vercel.app/api/top-langs/?username=Clarenza&layout=compact&theme=dark&cache_seconds=86402)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Clarenza&theme=dark)](https://git.io/streak-stats)
