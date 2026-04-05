@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
+  <p>
+    <a href="https://img.shields.io/badge/github-repo-blue?logo=github">
+  </p>
 <!--
 **Clarenza/Clarenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
