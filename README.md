@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats-pzclfnyef-clarenzas-projects.vercel.app/api?username=Clarenza&show_icons=true&theme=dark&cache_seconds=86401)
-![Top Languages](https://github-readme-stats-pzclfnyef-clarenzas-projects.vercel.app/api/top-langs/?username=Clarenza&layout=compact&theme=dark&cache_seconds=86402)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Clarenza&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Clarenza&theme=tokyonight-duo&card_width=800&card_height=275)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-ivory-nine-15.vercel.app/api?username=Clarenza&show_icons=true&theme=dark&cache_seconds=1)
+<br>
+![Top Languages](https://github-readme-stats-ivory-nine-15.vercel.app/api/top-langs/?username=Clarenza&layout=compact&theme=dark&cache_seconds=86402)
+</div>
+
