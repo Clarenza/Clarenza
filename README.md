@@ -1,7 +1,11 @@
 <div align="center">
+
 <h1>Hi! I am Clarenza Victoria</h1>
+
+<h2> 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&width=600&lines=Full+Stack+Developer;Coding+Enthusiast;Adaptable+to+new+technologies;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&width=600&lines=Full+Stack+Developer;Coding+Enthusiast;Adaptable+to+new+technologies)](https://git.io/typing-svg)</h2>
+
 </div>
 
 
