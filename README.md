@@ -1,8 +1,15 @@
-<h1 align="center">Hi! I am Clarenza Victoria</h1>
+<!-- <h1 align="center">Hi! I am Clarenza Victoria</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-  <div align="left">
-    <h2>About me</h2>
+  <div align="left"> -->
+
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Clarenza+Victoria;Full+Stack+Developer;&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CODE-CREATE-INNOVATE-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+<h2>About me</h2>
     
     - 🎓 Passionate in **Coding and Learning new languages**
     - 🌱 Currently learning **Pyhton,PHP,flutter**
