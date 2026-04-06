@@ -1,13 +1,9 @@
-<!-- <h1 align="center">Hi! I am Clarenza Victoria</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-  <div align="left"> -->
-
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Clarenza+Victoria;Full+Stack+Developer;&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
-
 <div align="center">
-  <img src="https://img.shields.io/badge/CODE-CREATE-INNOVATE-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<h1>Hi! I am Clarenza Victoria</h1>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&width=600&lines=Full+Stack+Developer;Coding+Enthusiast;Adaptable+to+new+technologies;)](https://git.io/typing-svg)
 </div>
+
 
 <h2>About me</h2>
     
