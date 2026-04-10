@@ -11,13 +11,13 @@
 
 <h2>About me</h2>
     
-    - 🎓 Passionate in **Coding and Learning new languages**
-    - 🌱 Currently learning **Pyhton,PHP,flutter**
+    - 🎓  Passionate in **Coding and Learning new languages**
+    - 🌱 Currently learning **Python, PHP, Flutter**
     - 💡 Goal: **Full Stack Developer**
-    - 📍 Based in **Negombo,SriLanka*
+    - 📍 Based in **Negombo, Sri Lanka**
     - 💼 Actively **seeking opportunities** | Open to internships
     - 📫 Reach me at: **clarenza18@gmail.com**
-  
+      
   <div align="left">
   <h2>Languages & Tools </h2>
    <h3>Frontend</h3>
@@ -35,6 +35,12 @@
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=Clarenza&theme=tokyonight-duo&card_width=700&card_height=275)](https://git.io/streak-stats)
   </div>
+
+ <h2>Contribution Activity</h2>
+   <div align="center">
+    
+ [![Clarenza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Clarenza&theme=tokyo-night&bg_color=0a0a0a&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
  <h2>Github Statistics</h2>
   <div align="center">
