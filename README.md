@@ -20,7 +20,8 @@
   
   <div align="left">
   <h2>Languages & Tools </h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,mysql,php,docker,rabbitmq,redis,git,github,vscode" />
+   <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </div>
 
  <h2>Github Streaks</h2>
