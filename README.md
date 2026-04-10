@@ -24,8 +24,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
    <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=python,cpp,php,rabbitmq" />
+   <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
   </div>
-,,redis,git,github,vscode,mysql,docker,"
+,git,github,vscode,,docker,"
  <h2>Github Streaks</h2>
   <div align="center">
     
