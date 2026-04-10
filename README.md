@@ -22,8 +22,10 @@
   <h2>Languages & Tools </h2>
    <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+   <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,rabbitmq" />
   </div>
-
+,,redis,git,github,vscode,mysql,docker,"
  <h2>Github Streaks</h2>
   <div align="center">
     
