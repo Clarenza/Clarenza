@@ -46,7 +46,7 @@
   <div align="center">
     
   ![GitHub Stats](https://github-readme-stats-ivory-nine-15.vercel.app/api?username=Clarenza&show_icons=true&theme=dark&cache_seconds=1)
-  ![Top Languages](https://github-readme-stats-ivory-nine-15.vercel.app/api/top-langs/?username=Clarenza&layout=compact&theme=dark&cache_seconds=86402)
+  ![Top Languages](https://github-readme-stats-ivory-nine-15.vercel.app/api/top-langs/?username=Clarenza&layout=compact&theme=dark)
   </div>
 
   <h2 align="left">Connect with me</h2>
