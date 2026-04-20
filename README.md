@@ -47,6 +47,7 @@
     
   ![GitHub Stats](https://github-readme-stats-ivory-nine-15.vercel.app/api?username=Clarenza&show_icons=true&theme=dark)
   ![Top Languages](https://github-readme-stats-ivory-nine-15.vercel.app/api/top-langs/?username=Clarenza&layout=compact&theme=dark)
+
   </div>
 
   <h2 align="left">Connect with me</h2>
